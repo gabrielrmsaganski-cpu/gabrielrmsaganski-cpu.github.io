@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "title": "Gabriel Saganski | Engenheiro de Sistemas Aplicados com IA",
+    "description": "Portfolio tecnico premium de Gabriel Saganski, focado em sistemas de IA, plataformas fintech, infraestrutura de automacao e workflows de backend prontos para producao.",
+    "ogTitle": "Gabriel Saganski | Engenheiro de Sistemas Aplicados com IA",
+    "ogDescription": "Sistemas orientados por IA, plataformas fintech, infraestrutura de automacao e engenharia pronta para operacoes reais.",
+    "twitterTitle": "Gabriel Saganski | Engenheiro de Sistemas Aplicados com IA",
+    "twitterDescription": "Sistemas operator-grade em IA, automacao, plataformas fintech, workflows de backend e engenharia orientada a infraestrutura."
+  },
+  "brand": {
+    "name": "Gabriel Saganski",
+    "subtitle": "Engenheiro de Sistemas Aplicados com IA",
+    "homeAria": "Inicio de Gabriel Saganski"
+  },
+  "nav": {
+    "ariaLabel": "Navegacao principal",
+    "flagship": "Sistemas Principais",
+    "domains": "Dominios de Engenharia",
+    "philosophy": "Filosofia de Arquitetura",
+    "caseStudies": "Estudos de Caso",
+    "stack": "Stack Tecnologico",
+    "github": "Projetos GitHub",
+    "contact": "Contato"
+  },
+  "languageToggle": {
+    "ariaLabel": "Alternancia de idioma"
+  },
+  "hero": {
+    "kicker": "IA aplicada / operacao fintech / infraestrutura de automacao",
+    "status": "Foco em sistemas de producao",
+    "role": "Engenheiro de Sistemas Aplicados com IA",
+    "headline": "Construo sistemas operator-grade em que IA, pagamentos e automacao rodam dentro de workflows reais de negocio.",
+    "subheadline": "Meu trabalho fica na intersecao entre plataformas internas, servicos de backend e superficies de controle que exigem confiabilidade, visibilidade e disciplina de execucao em producao.",
+    "support": "Sinal mais forte: pipelines de IA aplicada, tooling de operacao fintech e servicos de automacao de longa execucao para operadores reais.",
+    "primaryCta": "Explorar Sistemas Principais",
+    "secondaryCta": "Ver GitHub",
+    "signals": [
+      {
+        "title": "Sistemas de IA",
+        "value": "Workflows com LLM, inferencia estruturada, saidas tipadas e suporte a decisao para operadores."
+      },
+      {
+        "title": "Infraestrutura de automacao",
+        "value": "Agendadores, workers, runbooks, entrega de mensagens e controle de runtime para operacoes recorrentes."
+      },
+      {
+        "title": "Plataformas fintech",
+        "value": "Operacoes de pagamento, conciliacao, tooling de suporte e dashboards internos com controle de risco."
+      }
+    ],
+    "visual": {
+      "title": "Superficies principais de produto",
+      "status": "Curado a partir de builds reais",
+      "mapTitle": "Visao operacional real",
+      "mapSummary": "Views reais de dashboard e mapas de sistema extraidos dos projetos mais fortes do portfolio.",
+      "nodes": [
+        {
+          "title": "AION NEXUS",
+          "summary": "Conectores assincronos, inferencia estruturada e traducao de sinal de risco de credito."
+        },
+        {
+          "title": "OWN Acquirer Panel",
+          "summary": "Sync de pagamentos, fluxos de conciliacao, dashboard operacional e webhooks."
+        },
+        {
+          "title": "LAW FIDC Command Center",
+          "summary": "Workflows de pesquisa, roteamento de IA, jobs assincronos e operacao de negocio."
+        }
+      ],
+      "layersTitle": "Modelo operacional",
+      "layers": [
+        {
+          "label": "Interfaces",
+          "value": "Dashboards, portais internos e superficies de controle para operadores"
+        },
+        {
+          "label": "Orquestracao",
+          "value": "APIs, agendadores, filas e servicos em background de longa execucao"
+        },
+        {
+          "label": "Estado",
+          "value": "Postgres, Redis, SQLite e estado de workflow auditavel"
+        }
+      ]
+    }
+  },
+  "sections": {
+    "flagship": {
+      "kicker": "Sistemas Principais",
+      "title": "Sistemas selecionados com o sinal de engenharia mais forte.",
+      "intro": "Comece aqui para ver com clareza como eu construo workflows de IA aplicada, tooling de operacao fintech e plataformas internas que precisam sustentar producao."
+    },
+    "domains": {
+      "kicker": "Dominios de Engenharia",
+      "title": "Dominios centrais de engenharia por tras do portfolio.",
+      "intro": "O trabalho ganha forca quando integracoes, operadores, fluxo de dados e automacao precisam se comportar como um unico sistema."
+    },
+    "philosophy": {
+      "kicker": "Filosofia de Arquitetura",
+      "title": "Escolhas de arquitetura guiadas por operabilidade, controle e longevidade.",
+      "intro": "Minha tendencia e favorecer limites explicitos, contratos tipados, estado de workflow auditavel e camadas de servico que continuam compreensiveis com o crescimento do sistema."
+    },
+    "caseStudies": {
+      "kicker": "Estudos de Caso",
+      "title": "Casos concisos baseados em implementacoes reais.",
+      "intro": "Cada estudo de caso foi estruturado em torno da pressao de negocio, das restricoes do sistema, das decisoes de arquitetura e do resultado que tornou a entrega crivel."
+    },
+    "stack": {
+      "kicker": "Stack Tecnologico",
+      "title": "Stack agrupada por responsabilidade, nao por tendencia.",
+      "intro": "O conjunto de ferramentas esta organizado pelo papel que exerce na arquitetura: interfaces, servicos, runtime, dados e orquestracao de modelos."
+    },
+    "github": {
+      "kicker": "Projetos GitHub",
+      "title": "Repositorios publicos que reforcam a narrativa de engenharia.",
+      "intro": "Os repositorios foram curados para mostrar profundidade de workflow, pensamento de integracao e design de sistema, e nao output de nivel tutorial."
+    },
+    "contact": {
+      "kicker": "Contato",
+      "title": "Aberto a funcoes de engenharia nas quais a qualidade do sistema e requisito real.",
+      "intro": "Melhor encaixe: equipes entregando produtos com IA, plataformas de automacao, operacao fintech ou sistemas de backend com restricoes operacionais concretas."
+    }
+  },
+  "common": {
+    "roleLabel": "Papel / Ownership",
+    "highlightsLabel": "Pontos principais",
+    "technologyLabel": "Tecnologias",
+    "repositoryLabel": "Repositorio",
+    "caseStudyLabel": "Estudo de caso",
+    "viewRepository": "Abrir repositorio",
+    "viewCaseStudy": "Ver estudo de caso",
+    "contextLabel": "Contexto",
+    "problemLabel": "Problema",
+    "architectureLabel": "Arquitetura",
+    "decisionsLabel": "Decisoes-chave",
+    "outcomeLabel": "Resultado"
+  },
+  "flagshipProjects": [
+    {
+      "slug": "aion-nexus",
+      "name": "AION NEXUS",
+      "category": "IA Aplicada / Inteligencia Macro",
+      "summary": "Pipeline de macro-inteligencia que coleta dados geopoliticos, economicos e de mercado, normaliza tudo em modelos tipados e traduz o contexto em analise estruturada de risco.",
+      "role": "Design do sistema, arquitetura de conectores, fluxo de inferencia e ownership da entrega operacional.",
+      "status": "Sistema principal de IA",
+      "stack": [
+        "Python",
+        "aiohttp",
+        "LangChain",
+        "Gemini",
+        "Pydantic",
+        "Telegram"
+      ],
+      "highlights": [
+        "Conectores paralelos para GDELT, FRED, SGS/BCB e feeds de mercado.",
+        "Normalizacao tipada antes da inferencia e da geracao de alertas.",
+        "Raciocinio estruturado com foco em macroeconomia e efeitos sobre risco de credito.",
+        "Entrega em estilo observer para alertas operacionais."
+      ],
+      "media": {
+        "eyebrow": "Motor de inteligencia macro",
+        "summary": "Ingestao paralela de fontes, analise tipada e alertas de risco para workflows sensiveis a credito.",
+        "image": "./assets/previews/aion-nexus-map.svg",
+        "alt": "Mapa de sistema do AION NEXUS",
+        "signals": [
+          "GDELT + FRED + SGS",
+          "Inferencia tipada",
+          "Alertas operacionais"
+        ]
+      },
+      "repoUrl": "https://github.com/gabrielrmsaganski-cpu/ai-systems/tree/main/projects/nexusgraph"
+    },
+    {
+      "slug": "own-acquirer-panel",
+      "name": "OWN Acquirer Panel",
+      "category": "Operacao Fintech / Pagamentos",
+      "summary": "Painel operacional para workflows de adquirencia cobrindo transacoes, liquidacoes, credenciamento, protocolos, diagnosticos e fluxos de suporte orientados a webhook.",
+      "role": "Arquitetura da plataforma, design da superficie de integracao e ownership do dashboard operacional.",
+      "status": "Plataforma fintech principal",
+      "stack": [
+        "Node.js",
+        "TypeScript",
+        "Next.js",
+        "Express",
+        "Prisma",
+        "Redis"
+      ],
+      "highlights": [
+        "Superficie modular de API para operacao de pagamentos e conciliacao.",
+        "Estrategia de sync em janelas para proteger APIs do provedor.",
+        "Auditoria, correlacao, auth e validacao de webhook no service layer.",
+        "Fluxos de dashboard desenhados para operadores e nao para um admin generico."
+      ],
+      "media": {
+        "eyebrow": "Superficie operacional real",
+        "summary": "Dashboard real de adquirencia com liquidacoes, monitoramento, roteamento de suporte e controle de workflows de pagamento.",
+        "image": "./assets/previews/own-acquirer-dashboard-live.png",
+        "alt": "Dashboard do OWN Acquirer Panel",
+        "signals": [
+          "Liquidacoes + transacoes",
+          "Suporte orientado a webhook",
+          "Workflows operacionais"
+        ]
+      },
+      "repoUrl": "https://github.com/gabrielrmsaganski-cpu/own-acquirer-panel"
+    },
+    {
+      "slug": "law-fidc-command-center",
+      "name": "LAW FIDC Command Center",
+      "category": "Workflow com IA / Plataforma de Recebiveis",
+      "summary": "Plataforma de pesquisa e operacao para workflows de recebiveis combinando roteamento de IA, gestao de processo, analise de noticias, jobs assincronos e superficies internas de controle.",
+      "role": "Direcao de arquitetura, design de plataforma backend e integracao dos workflows de IA.",
+      "status": "Plataforma operacional principal",
+      "stack": [
+        "Next.js",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Celery",
+        "OpenAI"
+      ],
+      "highlights": [
+        "Arquitetura Next.js e FastAPI com Postgres, Redis e Celery.",
+        "Roteamento de modelos por tarefa em vez de dependencia de um unico modelo.",
+        "RBAC, logs estruturados e tabelas de workflow auditaveis.",
+        "Profundidade de processo em pesquisa, tarefas, templates e analise por IA."
+      ],
+      "media": {
+        "eyebrow": "Visao de orquestracao de workflow",
+        "summary": "Plataforma operacional de recebiveis com pesquisa, roteamento de IA, fluxo de tarefas e controle de execucao em background.",
+        "image": "./assets/previews/law-fidc-systems-map.svg",
+        "alt": "Mapa de sistemas do LAW FIDC Command Center",
+        "signals": [
+          "Pesquisa + tasking",
+          "Roteamento de IA",
+          "Jobs assincronos + auditoria"
+        ]
+      },
+      "repoUrl": "https://github.com/gabrielrmsaganski-cpu/automation-tools/tree/main/projects/law-fidc-builder/law-fidc-command-center"
+    }
+  ],
+  "domains": [
+    {
+      "title": "Sistemas de IA",
+      "summary": "Uso aplicado de modelos dentro do produto para extracao, raciocinio estruturado, priorizacao e suporte a decisao para operadores.",
+      "technologies": [
+        "OpenAI",
+        "Gemini",
+        "AWS Bedrock",
+        "LangChain",
+        "Pydantic"
+      ]
+    },
+    {
+      "title": "Plataformas de Automacao",
+      "summary": "Servicos de longa execucao, agendadores, jobs e helpers de runtime desenhados para repetibilidade e execucao sem supervisao.",
+      "technologies": [
+        "APScheduler",
+        "Celery",
+        "PM2",
+        "PowerShell",
+        "Telegram Bot API"
+      ]
+    },
+    {
+      "title": "Arquitetura de Backend",
+      "summary": "Limites de servico, modelos tipados de requisicao, camadas de orquestracao e APIs orientadas a workflow para manter o sistema evoluivel.",
+      "technologies": [
+        "FastAPI",
+        "Express",
+        "Node.js",
+        "SQLAlchemy",
+        "Prisma"
+      ]
+    },
+    {
+      "title": "Sistemas Fintech",
+      "summary": "Operacao de pagamentos, conciliacao, liquidacao e tooling operacional sustentados por estado explicito e controle de workflow.",
+      "technologies": [
+        "PostgreSQL",
+        "Redis",
+        "Prisma",
+        "Next.js",
+        "Webhooks"
+      ]
+    },
+    {
+      "title": "Infraestrutura Cloud",
+      "summary": "Implementacao orientada a infraestrutura com scripts de deploy, limites de runtime, superficies de health e entrega compativel com plataforma.",
+      "technologies": [
+        "Docker Compose",
+        "Windows Server",
+        "GitHub Pages",
+        "TLS",
+        "Redis"
+      ]
+    }
+  ],
+  "philosophy": [
+    {
+      "title": "Interfaces operator-grade",
+      "summary": "Dashboards e paineis de controle precisam ajudar equipes a rodar workflows, inspecionar estado e resolver incidentes, e nao apenas exibir metricas decorativas."
+    },
+    {
+      "title": "Separacao de responsabilidades",
+      "summary": "Frontends, APIs, agendadores, integracoes e armazenamento evoluem melhor quando cada camada tem uma responsabilidade clara."
+    },
+    {
+      "title": "Integracoes tipadas",
+      "summary": "APIs externas ficam mais seguras e mais legiveis quando sao normalizadas em modelos tipados antes de chegar ao negocio ou aos prompts."
+    },
+    {
+      "title": "Workflows auditaveis",
+      "summary": "Request IDs, logs de workflow, erros estruturados e estado persistente importam sempre que operadores precisam confiar no que o sistema acabou de fazer."
+    },
+    {
+      "title": "Disciplina de runtime",
+      "summary": "Agendadores, retries, jobs em background, scripts de deploy e health checks fazem parte da qualidade do produto, e nao de uma limpeza posterior."
+    }
+  ],
+  "caseStudies": [
+    {
+      "slug": "aion-nexus",
+      "projectName": "AION NEXUS",
+      "context": "AION NEXUS foi pensado para ambientes nos quais eventos geopoliticos e macroeconomicos precisam ser convertidos em sinal concreto de risco e decisao operacional.",
+      "problem": "Uma chamada ao modelo nao resolve isso sozinha. A parte dificil e coletar as fontes certas, normalizar o dado, montar um contexto disciplinado e entregar o resultado em um workflow utilizavel.",
+      "architecture": "O sistema usa conectores assincronos para varias fontes externas, normalizacao tipada com Pydantic, um motor de inferencia estruturada e entrega de alertas em estilo observer.",
+      "decisions": [
+        "Manter a camada de conectores paralela e com retry para reduzir latencia sem perder estabilidade.",
+        "Normalizar os dados antes da inferencia para que o modelo trabalhe com estrutura e nao com ruido bruto.",
+        "Tratar a entrega como parte da arquitetura para que a analise vire operacao e nao fique presa em um terminal."
+      ],
+      "outcome": "O resultado e um sistema de IA aplicada com sinal forte de engenharia: os modelos ficam dentro de um pipeline confiavel, com interfaces claras, estado tipado e valor operacional."
+    },
+    {
+      "slug": "own-acquirer-panel",
+      "projectName": "OWN Acquirer Panel",
+      "context": "OWN Acquirer Panel atende a realidade operacional de times de pagamentos que precisam de uma superficie unica para transacoes, liquidacao, webhooks, diagnosticos e suporte.",
+      "problem": "Sem uma plataforma interna, a operacao de pagamentos fica fragmentada entre portais do provedor, exports manuais e processos de suporte desconectados.",
+      "architecture": "A plataforma foi organizada como monorepo com API Express modular, persistencia via Prisma, orquestracao de sync, handlers de webhook e dashboard Next.js focado em operadores.",
+      "decisions": [
+        "Quebrar janelas de sync para reduzir carga nas APIs do provedor e tornar retries mais seguros.",
+        "Manter auth, correlacao, auditoria e validacao de webhook junto ao limite do service layer.",
+        "Construir a UI como sala de controle para operadores, e nao como shell admin generica."
+      ],
+      "outcome": "Este projeto mostra pensamento crivel de sistemas fintech: estado explicito, logica de sync orientada ao provedor, tooling operacional e interfaces feitas para uso diario em producao."
+    },
+    {
+      "slug": "law-fidc-command-center",
+      "projectName": "LAW FIDC Command Center",
+      "context": "LAW FIDC Command Center foi desenhado para operacoes de recebiveis com muita pesquisa e muito workflow, nas quais IA, gestao de processo e controles internos precisam coexistir.",
+      "problem": "Plataformas internas com IA ficam frageis rapidamente quando prompts, permissoes, jobs assincronos e estado de workflow ficam espalhados em scripts e ferramentas desconectadas.",
+      "architecture": "A plataforma combina frontend Next.js com servicos FastAPI, Postgres, Redis, Celery e uma camada de IA orientada por provider para que pesquisa, analise de noticias, tarefas e estado de processo vivam dentro de limites explicitos.",
+      "decisions": [
+        "Roteamento de modelos por tipo de tarefa e responsabilidade, em vez de travar a plataforma em um unico caminho.",
+        "Incluir RBAC, logs estruturados e estado auditavel desde o inicio.",
+        "Tratar IA como uma camada dentro de uma arquitetura maior, e nao como o produto inteiro."
+      ],
+      "outcome": "O resultado e um sistema que se apresenta como engenharia de plataforma real: profundidade de workflow, integracao de IA, execucao assincrona e sustentacao operacional em uma stack coerente."
+    }
+  ],
+  "stackGroups": [
+    {
+      "name": "Linguagens",
+      "items": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "items": [
+        "Next.js",
+        "React",
+        "App Router",
+        "Tailwind CSS",
+        "Vite"
+      ]
+    },
+    {
+      "name": "Backend",
+      "items": [
+        "FastAPI",
+        "Express",
+        "Node.js",
+        "SQLAlchemy",
+        "Prisma",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "AI / LLM",
+      "items": [
+        "OpenAI",
+        "Gemini",
+        "AWS Bedrock",
+        "LangChain",
+        "Structured outputs"
+      ]
+    },
+    {
+      "name": "Infraestrutura",
+      "items": [
+        "Docker Compose",
+        "PM2",
+        "Celery",
+        "APScheduler",
+        "GitHub Pages",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "Dados",
+      "items": [
+        "PostgreSQL",
+        "Redis",
+        "SQLite",
+        "Alembic",
+        "Pydantic"
+      ]
+    }
+  ],
+  "githubProjects": [
+    {
+      "name": "portfolio-ai-engineering",
+      "category": "Indice do portfolio",
+      "summary": "Repositorio de entrada que mapeia o portfolio publico, explica a curadoria e conecta os sistemas mais fortes.",
+      "stack": [
+        "Markdown",
+        "Architecture docs",
+        "Portfolio mapping"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/portfolio-ai-engineering"
+    },
+    {
+      "name": "ai-systems",
+      "category": "IA aplicada",
+      "summary": "Repositorio de NexusGraph e outros workflows nos quais a inferencia vive dentro de limites claros de software.",
+      "stack": [
+        "Python",
+        "Gemini",
+        "LangChain"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/ai-systems"
+    },
+    {
+      "name": "own-acquirer-panel",
+      "category": "Plataforma fintech",
+      "summary": "Plataforma de operacao de pagamentos cobrindo sync, liquidacoes, diagnosticos, webhooks e dashboards operacionais.",
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "Prisma"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/own-acquirer-panel"
+    },
+    {
+      "name": "law-hub-legal-system",
+      "category": "Inteligencia juridica",
+      "summary": "Plataforma juridico-financeira com ingestao, extracao com IA, matching e superficies operacionais de monitoramento.",
+      "stack": [
+        "FastAPI",
+        "Next.js",
+        "OpenAI"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/law-hub-legal-system"
+    },
+    {
+      "name": "automation-tools",
+      "category": "Sistemas de automacao",
+      "summary": "Colecao de sistemas com automacao pesada, incluindo signal factories, builders de projeto, tooling de recovery e scripts de runtime.",
+      "stack": [
+        "Python",
+        "Bedrock",
+        "PowerShell"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/automation-tools"
+    },
+    {
+      "name": "fintech-projects",
+      "category": "Infra de trading",
+      "summary": "Sistemas de execucao com workers, market scanning, controle operacional e limites explicitos de risco.",
+      "stack": [
+        "FastAPI",
+        "React",
+        "SQLite"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/fintech-projects"
+    }
+  ],
+  "contact": {
+    "availability": "Aberto a oportunidades seniores de engenharia em IA aplicada, plataformas de automacao, sistemas fintech e arquitetura de backend.",
+    "message": "Se a vaga envolve construir sistemas reais com integracoes, profundidade de workflow e responsabilidade de producao, a chance de encaixe e alta.",
+    "links": [
+      {
+        "label": "GitHub",
+        "value": "github.com/gabrielrmsaganski-cpu",
+        "description": "Repositorios publicados, documentacao de arquitetura e codigo usado nos case studies.",
+        "url": "https://github.com/gabrielrmsaganski-cpu"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/gabriel-saganski",
+        "description": "Perfil profissional para recrutadores, gestores de engenharia e lideranca tecnica.",
+        "url": "https://www.linkedin.com/in/gabriel-saganski/"
+      },
+      {
+        "label": "Email",
+        "value": "gabrielrmsaganski@gmail.com",
+        "description": "Canal direto para oportunidades, entrevistas e conversa sobre o portfolio.",
+        "url": "mailto:gabrielrmsaganski@gmail.com"
+      }
+    ]
+  },
+  "footer": {
+    "name": "Gabriel Saganski",
+    "tagline": "Engenheiro de Sistemas Aplicados com IA",
+    "note": "Sistemas de IA, plataformas de automacao, workflows fintech"
+  }
+}

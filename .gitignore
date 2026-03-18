@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+output/
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.pypirc
+secrets.*

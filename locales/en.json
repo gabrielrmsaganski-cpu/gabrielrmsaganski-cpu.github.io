@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "title": "Gabriel Saganski | AI Applied Systems Engineer",
+    "description": "Premium technical portfolio for Gabriel Saganski, AI Applied Systems Engineer focused on AI systems, fintech platforms, automation infrastructure, and production-grade backend workflows.",
+    "ogTitle": "Gabriel Saganski | AI Applied Systems Engineer",
+    "ogDescription": "AI-driven systems, fintech platforms, automation infrastructure, and production-grade engineering built for real operations.",
+    "twitterTitle": "Gabriel Saganski | AI Applied Systems Engineer",
+    "twitterDescription": "Operator-grade systems across AI, automation, fintech platforms, backend workflows, and infrastructure-aware engineering."
+  },
+  "brand": {
+    "name": "Gabriel Saganski",
+    "subtitle": "AI Applied Systems Engineer",
+    "homeAria": "Gabriel Saganski home"
+  },
+  "nav": {
+    "ariaLabel": "Primary navigation",
+    "flagship": "Flagship Systems",
+    "domains": "Engineering Domains",
+    "philosophy": "Architecture Philosophy",
+    "caseStudies": "Case Studies",
+    "stack": "Technology Stack",
+    "github": "GitHub Projects",
+    "contact": "Contact"
+  },
+  "languageToggle": {
+    "ariaLabel": "Language switch"
+  },
+  "hero": {
+    "kicker": "Applied AI / fintech operations / automation infrastructure",
+    "status": "Production systems focus",
+    "role": "AI Applied Systems Engineer",
+    "headline": "I build operator-grade systems where AI, payments, and automation run inside real business workflows.",
+    "subheadline": "My work sits at the intersection of internal platforms, backend services, and control surfaces that need reliability, visibility, and execution discipline in production.",
+    "support": "Strongest signal: applied AI pipelines, fintech operations tooling, and long-running automation services built for actual operators.",
+    "primaryCta": "Explore Flagship Systems",
+    "secondaryCta": "View GitHub",
+    "signals": [
+      {
+        "title": "AI systems",
+        "value": "LLM workflows, structured inference, typed outputs, and operator-facing decision support."
+      },
+      {
+        "title": "Automation infrastructure",
+        "value": "Schedulers, workers, runbooks, message delivery, and runtime control for recurring operations."
+      },
+      {
+        "title": "Fintech platforms",
+        "value": "Payments operations, reconciliation flows, support tooling, and risk-aware internal dashboards."
+      }
+    ],
+    "visual": {
+      "title": "Flagship product surfaces",
+      "status": "Curated from live builds",
+      "mapTitle": "Live operator view",
+      "mapSummary": "Live dashboard views and system maps pulled from the strongest builds in the portfolio.",
+      "nodes": [
+        {
+          "title": "AION NEXUS",
+          "summary": "Async connectors, structured inference, and credit-risk signal translation."
+        },
+        {
+          "title": "OWN Acquirer Panel",
+          "summary": "Payments sync, reconciliation flows, operator dashboard, and webhooks."
+        },
+        {
+          "title": "LAW FIDC Command Center",
+          "summary": "Research workflows, AI routing, async jobs, and business operations."
+        }
+      ],
+      "layersTitle": "Operating model",
+      "layers": [
+        {
+          "label": "Interfaces",
+          "value": "Dashboards, internal portals, and control surfaces for operators"
+        },
+        {
+          "label": "Orchestration",
+          "value": "APIs, schedulers, queues, and long-running background services"
+        },
+        {
+          "label": "State",
+          "value": "Postgres, Redis, SQLite, and auditable workflow state"
+        }
+      ]
+    }
+  },
+  "sections": {
+    "flagship": {
+      "kicker": "Flagship Systems",
+      "title": "Selected systems with the strongest engineering signal.",
+      "intro": "Start here for the clearest view of how I build applied AI workflows, fintech operations tooling, and internal platforms that have to hold up in production."
+    },
+    "domains": {
+      "kicker": "Engineering Domains",
+      "title": "Core engineering domains behind the portfolio.",
+      "intro": "The work compounds where integrations, operators, data flow, and automation have to behave as one system."
+    },
+    "philosophy": {
+      "kicker": "Architecture Philosophy",
+      "title": "Architecture choices shaped by operability, control, and longevity.",
+      "intro": "I bias toward explicit boundaries, typed contracts, auditable workflow state, and service layers that remain understandable as the system grows."
+    },
+    "caseStudies": {
+      "kicker": "Case Studies",
+      "title": "Concise case studies from real implementation work.",
+      "intro": "Each case study is framed around business pressure, system constraints, architecture choices, and the outcome that made the build credible."
+    },
+    "stack": {
+      "kicker": "Technology Stack",
+      "title": "Stack grouped by responsibility, not by trend.",
+      "intro": "The toolset is organized by what it does inside the architecture: interfaces, services, runtime, data, and model orchestration."
+    },
+    "github": {
+      "kicker": "GitHub Projects",
+      "title": "Public repos that reinforce the engineering story.",
+      "intro": "The repositories were curated to show workflow depth, integration thinking, and system design rather than tutorial-style output."
+    },
+    "contact": {
+      "kicker": "Contact",
+      "title": "Open to engineering roles where system quality is a hard requirement.",
+      "intro": "Best fit: teams shipping AI products, automation platforms, fintech operations, or backend systems with real operational constraints."
+    }
+  },
+  "common": {
+    "roleLabel": "Role / Ownership",
+    "highlightsLabel": "Key highlights",
+    "technologyLabel": "Technologies",
+    "repositoryLabel": "Repository",
+    "caseStudyLabel": "Case study",
+    "viewRepository": "Open repository",
+    "viewCaseStudy": "Read case study",
+    "contextLabel": "Context",
+    "problemLabel": "Problem",
+    "architectureLabel": "Architecture",
+    "decisionsLabel": "Key decisions",
+    "outcomeLabel": "Outcome"
+  },
+  "flagshipProjects": [
+    {
+      "slug": "aion-nexus",
+      "name": "AION NEXUS",
+      "category": "Applied AI / Macro Intelligence",
+      "summary": "Macro-intelligence pipeline that collects geopolitical, economic, and market data, normalizes it into typed models, and translates it into structured downstream risk analysis.",
+      "role": "System design, connector architecture, inference workflow design, and delivery pipeline ownership.",
+      "status": "Flagship AI system",
+      "stack": [
+        "Python",
+        "aiohttp",
+        "LangChain",
+        "Gemini",
+        "Pydantic",
+        "Telegram"
+      ],
+      "highlights": [
+        "Parallel connectors for GDELT, FRED, SGS/BCB, and market data feeds.",
+        "Typed normalization before model inference and alert generation.",
+        "Structured reasoning focused on macro and credit-risk spillover.",
+        "Observer-style delivery for operational alerting."
+      ],
+      "media": {
+        "eyebrow": "Macro intelligence engine",
+        "summary": "Parallel source ingestion, typed analysis, and downstream risk alerts for credit-sensitive workflows.",
+        "image": "./assets/previews/aion-nexus-map.svg",
+        "alt": "AION NEXUS system map",
+        "signals": [
+          "GDELT + FRED + SGS",
+          "Typed inference",
+          "Operational alerts"
+        ]
+      },
+      "repoUrl": "https://github.com/gabrielrmsaganski-cpu/ai-systems/tree/main/projects/nexusgraph"
+    },
+    {
+      "slug": "own-acquirer-panel",
+      "name": "OWN Acquirer Panel",
+      "category": "Fintech Operations / Payments",
+      "summary": "Operator panel for acquiring workflows covering transactions, settlements, accreditation, protocols, diagnostics, and webhook-aware support flows.",
+      "role": "Platform architecture, integration surface design, and operator dashboard ownership.",
+      "status": "Flagship fintech platform",
+      "stack": [
+        "Node.js",
+        "TypeScript",
+        "Next.js",
+        "Express",
+        "Prisma",
+        "Redis"
+      ],
+      "highlights": [
+        "Modular API surface for payments operations and reconciliation.",
+        "Chunked sync strategy designed to protect upstream provider APIs.",
+        "Audit, correlation, auth, and webhook validation in the service layer.",
+        "Dashboard workflows built for operators rather than generic admin UI."
+      ],
+      "media": {
+        "eyebrow": "Live operator surface",
+        "summary": "Actual acquiring operations dashboard with settlements, monitoring, support routing, and payment workflow control.",
+        "image": "./assets/previews/own-acquirer-dashboard-live.png",
+        "alt": "OWN Acquirer Panel dashboard",
+        "signals": [
+          "Settlements + transactions",
+          "Webhook-aware support",
+          "Operator workflows"
+        ]
+      },
+      "repoUrl": "https://github.com/gabrielrmsaganski-cpu/own-acquirer-panel"
+    },
+    {
+      "slug": "law-fidc-command-center",
+      "name": "LAW FIDC Command Center",
+      "category": "AI Workflow / Receivables Platform",
+      "summary": "Research and operations platform for receivables workflows combining AI routing, CRM-style process management, newsroom analysis, async jobs, and internal control surfaces.",
+      "role": "Architecture direction, backend platform design, and AI workflow integration.",
+      "status": "Flagship operations platform",
+      "stack": [
+        "Next.js",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Celery",
+        "OpenAI"
+      ],
+      "highlights": [
+        "Next.js and FastAPI architecture with Postgres, Redis, and Celery.",
+        "Task-aware model routing instead of a single-model dependency.",
+        "RBAC, structured logs, and audit-friendly workflow tables.",
+        "Business-process depth across research, tasks, templates, and AI analysis."
+      ],
+      "media": {
+        "eyebrow": "Workflow orchestration view",
+        "summary": "Receivables operations platform spanning research, AI routing, task flow, and background execution control.",
+        "image": "./assets/previews/law-fidc-systems-map.svg",
+        "alt": "LAW FIDC Command Center systems map",
+        "signals": [
+          "Research + tasking",
+          "AI routing",
+          "Async jobs + audit"
+        ]
+      },
+      "repoUrl": "https://github.com/gabrielrmsaganski-cpu/automation-tools/tree/main/projects/law-fidc-builder/law-fidc-command-center"
+    }
+  ],
+  "domains": [
+    {
+      "title": "AI Systems",
+      "summary": "Applied model usage inside products for extraction, structured reasoning, prioritization, and operator-facing decision support.",
+      "technologies": [
+        "OpenAI",
+        "Gemini",
+        "AWS Bedrock",
+        "LangChain",
+        "Pydantic"
+      ]
+    },
+    {
+      "title": "Automation Platforms",
+      "summary": "Long-running services, schedulers, jobs, and runtime helpers designed for repeatability and unattended execution.",
+      "technologies": [
+        "APScheduler",
+        "Celery",
+        "PM2",
+        "PowerShell",
+        "Telegram Bot API"
+      ]
+    },
+    {
+      "title": "Backend Architecture",
+      "summary": "Service boundaries, typed request models, orchestration layers, and workflow-aware APIs built for maintainability.",
+      "technologies": [
+        "FastAPI",
+        "Express",
+        "Node.js",
+        "SQLAlchemy",
+        "Prisma"
+      ]
+    },
+    {
+      "title": "Fintech Systems",
+      "summary": "Payments operations, reconciliation, settlement handling, and dashboard tooling backed by explicit state and workflow controls.",
+      "technologies": [
+        "PostgreSQL",
+        "Redis",
+        "Prisma",
+        "Next.js",
+        "Webhooks"
+      ]
+    },
+    {
+      "title": "Cloud Infrastructure",
+      "summary": "Infrastructure-aware implementation with deployment scripts, runtime boundaries, health surfaces, and platform-compatible delivery.",
+      "technologies": [
+        "Docker Compose",
+        "Windows Server",
+        "GitHub Pages",
+        "TLS",
+        "Redis"
+      ]
+    }
+  ],
+  "philosophy": [
+    {
+      "title": "Operator-grade interfaces",
+      "summary": "Dashboards and control panels should help teams run workflows, inspect state, and resolve issues instead of acting as decorative reporting layers."
+    },
+    {
+      "title": "Separation of concerns",
+      "summary": "Frontend surfaces, APIs, schedulers, integrations, and storage are easier to evolve when each layer has a clear responsibility."
+    },
+    {
+      "title": "Typed integrations",
+      "summary": "External APIs become safer and easier to reason about once they are normalized into typed models before they hit business logic or model prompts."
+    },
+    {
+      "title": "Audit-safe workflows",
+      "summary": "Request IDs, workflow logs, structured errors, and persistent run state matter whenever operators need to trust what the system just did."
+    },
+    {
+      "title": "Runtime discipline",
+      "summary": "Schedulers, retries, background jobs, deploy scripts, and health checks are part of the product quality bar, not post-launch cleanup."
+    }
+  ],
+  "caseStudies": [
+    {
+      "slug": "aion-nexus",
+      "projectName": "AION NEXUS",
+      "context": "AION NEXUS is built for environments where raw geopolitical and macroeconomic events need to be translated into concrete downstream credit risk and operator-facing signal.",
+      "problem": "A model call alone does not solve that problem. The hard part is collecting the right sources, normalizing them, shaping a disciplined context, and delivering the result in a usable workflow.",
+      "architecture": "The system uses async connectors for multiple external feeds, typed normalization through Pydantic models, a structured inference engine, and alert delivery through observer-style outputs.",
+      "decisions": [
+        "Keep the connector layer parallel and retry-aware to reduce latency without sacrificing stability.",
+        "Normalize source data before inference so the model works from structure rather than raw feed noise.",
+        "Treat delivery as part of the architecture so the analysis becomes operational instead of remaining trapped in a terminal."
+      ],
+      "outcome": "The result is an applied AI system that shows strong engineering maturity: models sit inside a reliable pipeline with clear interfaces, typed state, and operator value."
+    },
+    {
+      "slug": "own-acquirer-panel",
+      "projectName": "OWN Acquirer Panel",
+      "context": "OWN Acquirer Panel targets the operational reality of payments teams that need a unified control surface for transactions, settlement state, webhooks, diagnostics, and support flows.",
+      "problem": "Without an internal platform, payment operations get fragmented across vendor portals, manual exports, and disconnected support processes.",
+      "architecture": "The platform is organized as a monorepo with a modular Express API, Prisma-backed persistence, sync orchestration, webhook handlers, and a Next.js dashboard focused on operator workflows.",
+      "decisions": [
+        "Chunk sync windows to reduce load on upstream APIs and make retries safer.",
+        "Keep auth, request correlation, audit handling, and webhook validation close to the service boundary.",
+        "Build the UI as a control room for operators instead of a generic admin shell."
+      ],
+      "outcome": "This project shows credible fintech systems thinking: explicit state, provider-aware sync logic, operational tooling, and interfaces built for day-to-day production use."
+    },
+    {
+      "slug": "law-fidc-command-center",
+      "projectName": "LAW FIDC Command Center",
+      "context": "LAW FIDC Command Center is designed for research-heavy and workflow-heavy receivables operations where AI, process management, and internal controls need to coexist.",
+      "problem": "AI-enhanced internal platforms become brittle quickly when prompts, permissions, async jobs, and workflow state are scattered across disconnected tools or scripts.",
+      "architecture": "The platform combines a Next.js frontend with FastAPI services, Postgres, Redis, Celery, and a provider-aware AI layer so research, newsroom analysis, tasks, and process state live inside explicit application boundaries.",
+      "decisions": [
+        "Route model usage by task and responsibility rather than locking the platform to one provider path.",
+        "Bake RBAC, structured logs, and auditable state into the system from the start.",
+        "Treat AI as one layer inside a larger platform architecture rather than as the entire product."
+      ],
+      "outcome": "The outcome is a system that reads as real platform engineering: workflow depth, AI integration, async execution, and operational maintainability in one coherent stack."
+    }
+  ],
+  "stackGroups": [
+    {
+      "name": "Languages",
+      "items": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "items": [
+        "Next.js",
+        "React",
+        "App Router",
+        "Tailwind CSS",
+        "Vite"
+      ]
+    },
+    {
+      "name": "Backend",
+      "items": [
+        "FastAPI",
+        "Express",
+        "Node.js",
+        "SQLAlchemy",
+        "Prisma",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "AI / LLM",
+      "items": [
+        "OpenAI",
+        "Gemini",
+        "AWS Bedrock",
+        "LangChain",
+        "Structured outputs"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "items": [
+        "Docker Compose",
+        "PM2",
+        "Celery",
+        "APScheduler",
+        "GitHub Pages",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "Data",
+      "items": [
+        "PostgreSQL",
+        "Redis",
+        "SQLite",
+        "Alembic",
+        "Pydantic"
+      ]
+    }
+  ],
+  "githubProjects": [
+    {
+      "name": "portfolio-ai-engineering",
+      "category": "Portfolio index",
+      "summary": "The entry-point repository that maps the public portfolio, explains the curation strategy, and links the strongest systems together.",
+      "stack": [
+        "Markdown",
+        "Architecture docs",
+        "Portfolio mapping"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/portfolio-ai-engineering"
+    },
+    {
+      "name": "ai-systems",
+      "category": "Applied AI",
+      "summary": "Repository for NexusGraph and other model-enabled analysis workflows where inference lives inside disciplined software boundaries.",
+      "stack": [
+        "Python",
+        "Gemini",
+        "LangChain"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/ai-systems"
+    },
+    {
+      "name": "own-acquirer-panel",
+      "category": "Fintech platform",
+      "summary": "Payments operations platform covering sync, settlements, diagnostics, webhooks, and operator dashboards.",
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "Prisma"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/own-acquirer-panel"
+    },
+    {
+      "name": "law-hub-legal-system",
+      "category": "Legal intelligence",
+      "summary": "Legal-financial monitoring platform with ingestion workflows, AI extraction, matching logic, and operational monitoring surfaces.",
+      "stack": [
+        "FastAPI",
+        "Next.js",
+        "OpenAI"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/law-hub-legal-system"
+    },
+    {
+      "name": "automation-tools",
+      "category": "Automation systems",
+      "summary": "Collection of automation-heavy systems including signal factories, project builders, recovery tooling, and runtime scripts.",
+      "stack": [
+        "Python",
+        "Bedrock",
+        "PowerShell"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/automation-tools"
+    },
+    {
+      "name": "fintech-projects",
+      "category": "Trading infrastructure",
+      "summary": "Execution-oriented fintech systems with workers, market scanning, operator control, and explicit risk boundaries.",
+      "stack": [
+        "FastAPI",
+        "React",
+        "SQLite"
+      ],
+      "url": "https://github.com/gabrielrmsaganski-cpu/fintech-projects"
+    }
+  ],
+  "contact": {
+    "availability": "Open to senior engineering roles across applied AI, automation platforms, fintech systems, and backend architecture.",
+    "message": "If the role involves building real systems with integrations, workflow depth, and production responsibility, it is likely a strong fit.",
+    "links": [
+      {
+        "label": "GitHub",
+        "value": "github.com/gabrielrmsaganski-cpu",
+        "description": "Published repositories, architecture documentation, and public case-study source.",
+        "url": "https://github.com/gabrielrmsaganski-cpu"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/gabriel-saganski",
+        "description": "Professional profile for recruiters, engineering managers, and technical leadership conversations.",
+        "url": "https://www.linkedin.com/in/gabriel-saganski/"
+      },
+      {
+        "label": "Email",
+        "value": "gabrielrmsaganski@gmail.com",
+        "description": "Direct channel for opportunities, interviews, and portfolio follow-up.",
+        "url": "mailto:gabrielrmsaganski@gmail.com"
+      }
+    ]
+  },
+  "footer": {
+    "name": "Gabriel Saganski",
+    "tagline": "AI Applied Systems Engineer",
+    "note": "AI systems, automation platforms, fintech workflows"
+  }
+}

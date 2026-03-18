@@ -1,0 +1,31 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#08131C"/>
+  <circle cx="1360" cy="740" r="220" fill="#83F3C6" fill-opacity="0.08"/>
+  <text x="110" y="130" fill="#F2C66D" font-family="Arial, sans-serif" font-size="22" letter-spacing="4">AUTOMATION TOOLS</text>
+  <text x="110" y="200" fill="#EDF4FB" font-family="Arial, sans-serif" font-size="54" font-weight="700">Schedulers, Signal Factories, and AI Builders</text>
+  <text x="110" y="250" fill="#8EA4B6" font-family="Arial, sans-serif" font-size="24">Operational automation for Windows Server and product delivery workflows.</text>
+  <rect x="110" y="330" width="300" height="170" rx="28" fill="#0F1B27" stroke="#24394A"/>
+  <rect x="470" y="330" width="300" height="170" rx="28" fill="#0F1B27" stroke="#24394A"/>
+  <rect x="830" y="330" width="300" height="170" rx="28" fill="#0F1B27" stroke="#24394A"/>
+  <rect x="1190" y="330" width="300" height="170" rx="28" fill="#0F1B27" stroke="#24394A"/>
+  <rect x="470" y="580" width="300" height="170" rx="28" fill="#0F1B27" stroke="#24394A"/>
+  <rect x="830" y="580" width="300" height="170" rx="28" fill="#0F1B27" stroke="#24394A"/>
+  <text x="140" y="382" fill="#7DE2FF" font-size="18" font-family="Arial, sans-serif">AION SINAIS</text>
+  <text x="140" y="420" fill="#EDF4FB" font-size="30" font-weight="700" font-family="Arial, sans-serif">Signal Pipeline</text>
+  <text x="140" y="456" fill="#8EA4B6" font-size="18" font-family="Arial, sans-serif">Strategies, backtests, ranking, Telegram delivery.</text>
+  <text x="500" y="382" fill="#7DE2FF" font-size="18" font-family="Arial, sans-serif">WEB PANEL</text>
+  <text x="500" y="420" fill="#EDF4FB" font-size="30" font-weight="700" font-family="Arial, sans-serif">FastAPI UI</text>
+  <text x="500" y="456" fill="#8EA4B6" font-size="18" font-family="Arial, sans-serif">Operator pages for generation and review.</text>
+  <text x="860" y="382" fill="#7DE2FF" font-size="18" font-family="Arial, sans-serif">RUNBOOKS</text>
+  <text x="860" y="420" fill="#EDF4FB" font-size="30" font-weight="700" font-family="Arial, sans-serif">Windows Launchers</text>
+  <text x="860" y="456" fill="#8EA4B6" font-size="18" font-family="Arial, sans-serif">PowerShell and batch startup patterns.</text>
+  <text x="1220" y="382" fill="#7DE2FF" font-size="18" font-family="Arial, sans-serif">AI BUILDERS</text>
+  <text x="1220" y="420" fill="#EDF4FB" font-size="30" font-weight="700" font-family="Arial, sans-serif">LAW FIDC Builder</text>
+  <text x="1220" y="456" fill="#8EA4B6" font-size="18" font-family="Arial, sans-serif">Bedrock project generation and recovery.</text>
+  <text x="500" y="632" fill="#7DE2FF" font-size="18" font-family="Arial, sans-serif">RECOVERY</text>
+  <text x="500" y="670" fill="#EDF4FB" font-size="30" font-weight="700" font-family="Arial, sans-serif">Source Chunking</text>
+  <text x="500" y="706" fill="#8EA4B6" font-size="18" font-family="Arial, sans-serif">Large-project inspection and continuation reports.</text>
+  <text x="860" y="632" fill="#7DE2FF" font-size="18" font-family="Arial, sans-serif">SCHEDULING</text>
+  <text x="860" y="670" fill="#EDF4FB" font-size="30" font-weight="700" font-family="Arial, sans-serif">Recurring Jobs</text>
+  <text x="860" y="706" fill="#8EA4B6" font-size="18" font-family="Arial, sans-serif">Refresh loops, retries, and deterministic timing.</text>
+</svg>
